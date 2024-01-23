@@ -3,15 +3,15 @@ Django 기술면접 질문과 답변 저장소입니다.
 
 ## 목차
 
-- [Django 개요](#Django_개요)
-- [모델 (Model)](#모델_(Model))
-- [뷰 (View)](#뷰_(View))
-- [템플릿 (Template)](#템플릿_(Template))
-- [폼 (Form)](#폼_(Form))
-- [미들웨어 (Middleware)](#미들웨어_(Middleware))
-- [RESTful API 및 Django REST framework](#RESTful_API_및_Django_REST_framework)
-- [보안과 인증](#보안과_인증)
-- [캐시 및 성능 최적화](#캐시_및_성능_최적화)
+- [Django 개요](#Django-개요)
+- [모델 (Model)](#모델-(Model))
+- [뷰 (View)](#뷰-(View))
+- [템플릿 (Template)](#템플릿-(Template))
+- [폼 (Form)](#폼-(Form))
+- [미들웨어 (Middleware)](#미들웨어-(Middleware))
+- [RESTful API 및 Django REST framework](#RESTful-API-및-Django-REST-framework)
+- [보안과 인증](#보안과-인증)
+- [캐시 및 성능 최적화](#캐시-및-성능-최적화)
 - [테스트](#테스트)
 
 ### Django 개요

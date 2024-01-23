@@ -4,7 +4,7 @@ Django 기술면접 질문과 답변 저장소입니다.
 ## 목차
 
 - [Django 개요](#Django-개요)
-- [모델 (Model)](#모델-\(Model\))
+- [모델 \(Model\)](#모델-(Model))
 - [뷰 (View)](#뷰-(View))
 - [템플릿 (Template)](#템플릿-(Template))
 - [폼 (Form)](#폼-(Form))

@@ -4,11 +4,11 @@ Django 기술면접 질문과 답변 저장소입니다.
 ## 목차
 
 - [Django 개요](#Django-개요)
-- [모델 (Model)](#모델-(Model))
-- [뷰 (View)](#뷰-(View))
-- [템플릿 (Template)](#템플릿-(Template))
-- [폼 (Form)](#폼-(Form))
-- [미들웨어 (Middleware)](#미들웨어-(Middleware))
+- [모델](#모델)
+- [뷰](#뷰)
+- [템플릿](#템플릿)
+- [폼](#폼)
+- [미들웨어](#미들웨어)
 - [RESTful API 및 Django REST framework](#RESTful-API-및-Django-REST-framework)
 - [보안과 인증](#보안과-인증)
 - [캐시 및 성능 최적화](#캐시-및-성능-최적화)
@@ -16,7 +16,7 @@ Django 기술면접 질문과 답변 저장소입니다.
 
 ### Django 개요
 
-- Django란 무엇인가요?
+- [Django란 무엇인가요?](https://github.com/jmp7911/django-interview/Django/Django)
 - Django의 주요 특징은 무엇인가요?
 - MTV(Model-Template-View) 패턴에 대해 설명해보세요.
 

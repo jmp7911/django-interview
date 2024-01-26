@@ -17,8 +17,7 @@ Django 기술면접 질문과 답변 저장소입니다.
 ### Django 개요
 
 - [Django란 무엇인가요?](https://github.com/jmp7911/django-interview/tree/main/Django/Django)
-- Django의 주요 특징은 무엇인가요?
-- MTV(Model-Template-View) 패턴에 대해 설명해보세요.
+- [MTV(Model-Template-View) 패턴에 대해 설명해보세요.](https://github.com/jmp7911/django-interview/tree/main/Django/MTV)
 
 ### 모델 (Model)
 

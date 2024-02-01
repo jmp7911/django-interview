@@ -4,7 +4,7 @@ Django 기술면접 질문과 답변 저장소입니다.
 ## 목차
 
 - [Django 개요](#Django-개요)
-- [모델](#모델)
+- [모델 (Model)](#모델)
 - [뷰](#뷰)
 - [템플릿](#템플릿)
 - [폼](#폼)
@@ -19,9 +19,9 @@ Django 기술면접 질문과 답변 저장소입니다.
 - [Django란 무엇인가요?](https://github.com/jmp7911/django-interview/tree/main/Django/Django)
 - [MTV(Model-Template-View) 패턴에 대해 설명해보세요.](https://github.com/jmp7911/django-interview/tree/main/Django/MTV)
 
-### 모델 (Model)
+### 모델
 
-- Django 모델의 역할은 무엇인가요?
+- [Django 모델의 역할은 무엇인가요?](https://github.com/jmp7911/django-interview/tree/main/Model/Model)
 - Django 모델에서 필드 타입에는 어떤 것들이 있나요?
 - CharField와 TextField의 차이는 무엇인가요?
 - 모델 간의 관계에는 어떤 것들이 있으며, 각각을 설명해보세요.
